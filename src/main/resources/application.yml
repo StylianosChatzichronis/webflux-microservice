@@ -1,0 +1,4 @@
+app:
+  base: https://httpbin.org/
+  post: /post
+  get: /get
